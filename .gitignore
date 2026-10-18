@@ -1,0 +1,10 @@
+*.log
+*.tmp
+temp/
+*.bak
+*.cache
+*.old
+*.swp
+*.zip
+build/
+node_modules/
