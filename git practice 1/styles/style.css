@@ -1,0 +1,14 @@
+body{
+    background-color: chartreuse;
+}
+
+img{
+    width: 300px;
+    height: 150px;
+}
+
+h1{
+    color: aqua;
+    text-decoration: line-through;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
